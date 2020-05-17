@@ -27,3 +27,14 @@ brew cask install android-sdk
 brew cask install android-platform-tools
 ```
 
+### 5. Install React Native CLI
+```
+npm install -g react-native-cli
+```
+
+
+
+https://guides.codepath.com/android/installing-android-sdk-tools#installing-the-android-sdk-via-homebrew
+
+https://stackoverflow.com/questions/17901692/set-up-adb-on-mac-os-x
+
