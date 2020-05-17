@@ -72,3 +72,10 @@ https://guides.codepath.com/android/installing-android-sdk-tools#installing-the-
 
 https://stackoverflow.com/questions/17901692/set-up-adb-on-mac-os-x
 
+
+
+## References
+https://ethercreative.github.io/react-native-shadow-generator/
+https://github.com/archriss/react-native-snap-carousel
+https://fontawesome.com/v4.7.0/icons/
+
