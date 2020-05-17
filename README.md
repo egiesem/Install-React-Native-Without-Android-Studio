@@ -38,6 +38,35 @@ npx react-native init AwesomeProject
 ```
 
 
+## FIX Task 'installDebug' not found in project ':app'. Some candidates are: 'installDevDebug'.
+
+```
+Open your brand new React Native project
+
+Go inside Android folder
+
+Create a file:- local.properties
+
+4)Once you create local.properties file open the file
+
+5)Paste code inside your local.properties file
+
+If you are using MacBook then paste this code:-
+
+sdk.dir=/Users/USERNAME/Library/android/sdk
+
+if you are using Windows then paste this code:-
+
+sdk.dir=C:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk
+
+if you are using Linux then paste this code:-
+
+sdk.dir = /home/USERNAME/Android/sdk
+
+6)last thing just run command npx react-native run-android
+
+```
+
 
 https://guides.codepath.com/android/installing-android-sdk-tools#installing-the-android-sdk-via-homebrew
 
