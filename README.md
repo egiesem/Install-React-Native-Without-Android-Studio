@@ -31,6 +31,11 @@ brew cask install android-platform-tools
 ```
 npm install -g react-native-cli
 ```
+or with npx
+
+```
+npx react-native init AwesomeProject
+```
 
 
 
